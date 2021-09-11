@@ -1,6 +1,6 @@
 # js-fundamentos-aplicados-a-objetos
 Objeto é uma estrutura de dados composta por chave e valor que permite organizar informações de uma abstração de objetos do mundo real, por exemplo: uma pessoa, um carro, uma conta corrente, etc... 
-Nele, podemos armazenar e acessar diferente tipos de dados, como string, number, boolean, e também, valores em listas que são arrays.
+Nele, podemos armazenar e acessar diferente tipos de dados, como string, number, boolean, e também, valores dentro de listas (arrays) e dados de objetos dentro do próprio objeto.
 Abaixo um exemplo de abstração com propriedades de uma pessoa (cliente) em um objeto JavaScript:
 
 const cliente = {
