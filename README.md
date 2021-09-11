@@ -8,13 +8,6 @@ const cliente = {
     sobrenome : "Boccia",
     idade : 41,
     cpf : 12312312345,
-    email: "alexboccia@gmail.com"
-}
-
-const cliente = {
-    nome : "Alex",
-    sobrenome : "Boccia",
-    idade : 41,
-    cpf : 12312312345,
-    email: "alexboccia@gmail.com"
+    email: "alexboccia@gmail.com",
+    telefone : ["(00) 91111-2222", "(00) 90000-11111"]
 }
