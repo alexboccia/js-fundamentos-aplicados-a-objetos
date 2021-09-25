@@ -36,7 +36,7 @@ const cliente = [
 }
 ]
 
-// operador de espalhamento '...'
+// Sintaxe de Espalhamento ou Spread Operador '...'
 const listaDependentes = [...cliente[0].dependentes, ...cliente[1].dependentes];
 
 // console.log(listaDependentes);
